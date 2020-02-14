@@ -1,0 +1,2 @@
+# Python-mining
+Eletiva python
